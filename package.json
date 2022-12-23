@@ -315,7 +315,6 @@
     "graceful-fs": "^4.2.10",
     "grant": "^5.4.21",
     "grant-koa": "^5.4.8",
-    "graphql": "^16.6.0",
     "handle-thing": "^2.0.1",
     "handlebars": "^4.7.7",
     "har-schema": "^2.0.0",
@@ -911,7 +910,7 @@
     "concurrently": "^7.6.0"
   },
   "scripts": {
-    "dev": "concurrently \"cd packages/frontend && yarn dev\" \" cd packages/admin && yarn dev\""
+    "dev": "concurrently \"cd packages/frontend && yarn dev\" \" cd packages/backend && yarn dev\""
   },
   "keywords": [
     "strapi",
