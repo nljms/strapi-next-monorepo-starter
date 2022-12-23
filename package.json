@@ -433,7 +433,7 @@
     "json-stringify-safe": "^5.0.1",
     "json5": "^2.2.2",
     "jsonfile": "^6.1.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "jsprim": "^1.4.2",
     "jwa": "^1.4.1",
     "jwk-to-pem": "^2.0.5",
