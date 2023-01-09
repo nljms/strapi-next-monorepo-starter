@@ -487,7 +487,7 @@
     "lowercase-keys": "^2.0.0",
     "lru-cache": "^6.0.0",
     "lru_map": "^0.3.3",
-    "luxon": "^1.28.0",
+    "luxon": "^2.5.2",
     "mailcomposer": "^3.12.0",
     "make-dir": "^3.1.0",
     "make-iterator": "^1.0.1",
